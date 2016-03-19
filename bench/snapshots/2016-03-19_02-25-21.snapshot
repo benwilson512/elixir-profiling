@@ -1,4 +1,0 @@
-duration:1.0;mem stats:false;sys mem stats:false
-module;test;tags;iterations;elapsed
-MapSetDifferenceBench	mapset equality		100000000	5317815
-MapSetDifferenceBench	MyMapSet.difference		10000000	3370685

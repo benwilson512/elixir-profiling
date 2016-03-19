@@ -1,3 +1,0 @@
-duration:1.0;mem stats:false;sys mem stats:false
-module;test;tags;iterations;elapsed
-MapSetNewBench	MapSet.new(0..10000)		500	2095329

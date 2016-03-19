@@ -1,3 +1,0 @@
-duration:1.0;mem stats:false;sys mem stats:false
-module;test;tags;iterations;elapsed
-MapSetDifferenceBench	MyMapSet.difference		5000	2223395

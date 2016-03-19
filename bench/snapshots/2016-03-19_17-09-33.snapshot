@@ -1,9 +1,0 @@
-duration:1.0;mem stats:false;sys mem stats:false
-module;test;tags;iterations;elapsed
-MapSetDifferenceBench	MyMapSet.difference 10000, 6000		1000	1565616
-MapSetDifferenceBench	MyMapSet.difference 10000, 5000		1000	1582829
-MapSetDifferenceBench	MyMapSet.difference 10000, 4000		1000	1280541
-MapSetDifferenceBench	MyMapSet.difference 10000, 3000		2000	1855705
-MapSetDifferenceBench	MyMapSet.difference 10000, 2000		5000	3679643
-MapSetDifferenceBench	MyMapSet.difference 10000, 1000		5000	1772738
-MapSetDifferenceBench	MyMapSet.difference 10000, 1		10000000	5946547

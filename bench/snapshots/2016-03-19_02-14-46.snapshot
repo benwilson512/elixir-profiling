@@ -1,4 +1,0 @@
-duration:1.0;mem stats:false;sys mem stats:false
-module;test;tags;iterations;elapsed
-ProblemBench	-- indirectly		10	2133635
-ProblemBench	-- directly		1000000000	7666835
