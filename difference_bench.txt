@@ -1,0 +1,66 @@
+## MapSetDifferenceBench
+Lists -- 10000, 1           50000   58.27 µs/op
+Lists -- 10000, 1000         5000   420.58 µs/op
+Lists -- 10000, 2000         1000   1260.23 µs/op
+Lists -- 10000, 3000         1000   2781.94 µs/op
+Lists -- 10000, 4000          500   4880.60 µs/op
+Lists -- 10000, 5000          500   7576.39 µs/op
+Lists -- 10000, 6000          100   10558.20 µs/op
+Lists -- 10000, 7000          100   14682.88 µs/op
+Lists -- 10000, 8000          100   20280.96 µs/op
+Lists -- 10000, 9000          100   23493.39 µs/op
+Lists -- 10000, 10000         100   28943.82 µs/op
+Lists -- 9000, 10000          100   28306.36 µs/op
+Lists -- 8000, 10000          100   27322.58 µs/op
+Lists -- 7000, 10000          100   25841.32 µs/op
+Lists -- 6000, 10000          100   23969.07 µs/op
+Lists -- 5000, 10000          100   21379.34 µs/op
+Lists -- 4000, 10000          100   18424.15 µs/op
+Lists -- 3000, 10000          100   14753.30 µs/op
+Lists -- 2000, 10000          100   10432.82 µs/op
+Lists -- 1000, 10000          500   5664.05 µs/op
+Lists -- 1, 10000          100000   32.35 µs/op
+
+MapSet.difference 10000, 1          10000000   0.52      0.56     
+MapSet.difference 10000, 1000           5000   346.96    348.52   
+MapSet.difference 10000, 2000           5000   705.66    733.41   
+MapSet.difference 10000, 3000           2000   912.82    886.30   
+MapSet.difference 10000, 4000           1000   1248.19   1244.76  
+MapSet.difference 10000, 5000           1000   1453.47   1492.58  
+MapSet.difference 10000, 6000           1000   1533.30   1458.43  
+MapSet.difference 10000, 7000           1000   1732.67   1273.15  
+MapSet.difference 10000, 8000           1000   1904.72   1210.68  
+MapSet.difference 10000, 9000           1000   2286.03   1154.52  
+MapSet.difference 10000, 10000          1000   2191.14   0.04     
+MapSet.difference 9000,  10000          1000   2069.89   1160.29  
+MapSet.difference 8000,  10000          1000   2094.26   980.14   
+MapSet.difference 7000,  10000          1000   1998.51   778.25   
+MapSet.difference 6000,  10000          1000   1946.70   926.73   
+MapSet.difference 5000,  10000          1000   1796.39   568.66   
+MapSet.difference 4000,  10000          1000   1445.27   428.51   
+MapSet.difference 3000,  10000          1000   1540.73   339.84   
+MapSet.difference 2000,  10000          1000   1385.14   242.78   
+MapSet.difference 1000,  10000          1000   1058.99   113.43   
+MapSet.difference 1,     10000          5000   659.02    0.43     
+
+MyMapSet.difference 10000, 1        10000000   0.56
+MyMapSet.difference 10000, 1000         5000   348.52
+MyMapSet.difference 10000, 2000         5000   733.41
+MyMapSet.difference 10000, 3000         2000   886.30
+MyMapSet.difference 10000, 4000         1000   1244.76
+MyMapSet.difference 10000, 5000         1000   1492.58
+MyMapSet.difference 10000, 6000         1000   1458.43
+MyMapSet.difference 10000, 7000         1000   1273.15
+MyMapSet.difference 10000, 8000         1000   1210.68
+MyMapSet.difference 10000, 9000         1000   1154.52
+MyMapSet.difference 10000, 10000   100000000   0.04
+MyMapSet.difference 9000,  10000        1000   1160.29
+MyMapSet.difference 8000,  10000        2000   980.14
+MyMapSet.difference 7000,  10000        2000   778.25
+MyMapSet.difference 6000,  10000        2000   926.73
+MyMapSet.difference 5000,  10000        5000   568.66
+MyMapSet.difference 4000,  10000        5000   428.51
+MyMapSet.difference 3000,  10000        5000   339.84
+MyMapSet.difference 2000,  10000       10000   242.78
+MyMapSet.difference 1000,  10000       10000   113.43
+MyMapSet.difference 1,     10000    10000000   0.43

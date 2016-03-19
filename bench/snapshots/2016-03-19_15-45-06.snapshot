@@ -1,0 +1,22 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+MapSetIntersectionBench	MyMapSet.intersection 10000,  9000		2000	1540707
+MapSetIntersectionBench	MyMapSet.intersection 10000,  8000		5000	3439595
+MapSetIntersectionBench	MyMapSet.intersection 10000,  7000		5000	3017754
+MapSetIntersectionBench	MyMapSet.intersection 10000,  6000		5000	2513377
+MapSetIntersectionBench	MyMapSet.intersection 10000,  5000		5000	2171032
+MapSetIntersectionBench	MyMapSet.intersection 10000,  4000		5000	1789538
+MapSetIntersectionBench	MyMapSet.intersection 10000,  3000		10000	2736597
+MapSetIntersectionBench	MyMapSet.intersection 10000,  2000		10000	1794925
+MapSetIntersectionBench	MyMapSet.intersection 10000,  10000		2000	1912530
+MapSetIntersectionBench	MyMapSet.intersection 10000,  1000		20000	1813478
+MapSetIntersectionBench	MapSet.intersection 10000,  9000		500	1602034
+MapSetIntersectionBench	MapSet.intersection 10000,  8000		1000	2666674
+MapSetIntersectionBench	MapSet.intersection 10000,  7000		1000	2243799
+MapSetIntersectionBench	MapSet.intersection 10000,  6000		1000	1888106
+MapSetIntersectionBench	MapSet.intersection 10000,  5000		1000	1528245
+MapSetIntersectionBench	MapSet.intersection 10000,  4000		1000	1240612
+MapSetIntersectionBench	MapSet.intersection 10000,  3000		2000	1847205
+MapSetIntersectionBench	MapSet.intersection 10000,  2000		5000	2992932
+MapSetIntersectionBench	MapSet.intersection 10000,  10000		500	1748340
+MapSetIntersectionBench	MapSet.intersection 10000,  1000		10000	2933019

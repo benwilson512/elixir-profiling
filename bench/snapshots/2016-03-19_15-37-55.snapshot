@@ -1,0 +1,24 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+ListsDifferenceBench	Lists -- 9000, 10000		100	2830636
+ListsDifferenceBench	Lists -- 8000, 10000		100	2732258
+ListsDifferenceBench	Lists -- 7000, 10000		100	2584132
+ListsDifferenceBench	Lists -- 6000, 10000		100	2396907
+ListsDifferenceBench	Lists -- 5000, 10000		100	2137934
+ListsDifferenceBench	Lists -- 4000, 10000		100	1842415
+ListsDifferenceBench	Lists -- 3000, 10000		100	1475330
+ListsDifferenceBench	Lists -- 2000, 10000		100	1043282
+ListsDifferenceBench	Lists -- 10000, 10000		50	1429211
+ListsDifferenceBench	Lists -- 10000, 1		50000	2913480
+ListsDifferenceBench	Lists -- 10000,  9000		100	2349339
+ListsDifferenceBench	Lists -- 10000,  8000		100	2028096
+ListsDifferenceBench	Lists -- 10000,  7000		100	1468288
+ListsDifferenceBench	Lists -- 10000,  6000		100	1055820
+ListsDifferenceBench	Lists -- 10000,  5000		500	3788193
+ListsDifferenceBench	Lists -- 10000,  4000		500	2440299
+ListsDifferenceBench	Lists -- 10000,  3000		1000	2781940
+ListsDifferenceBench	Lists -- 10000,  2000		1000	1260226
+ListsDifferenceBench	Lists -- 10000,  10000		100	2894382
+ListsDifferenceBench	Lists -- 10000,  1000		5000	2102916
+ListsDifferenceBench	Lists -- 1000, 10000		500	2832025
+ListsDifferenceBench	Lists -- 1, 10000		100000	3235386

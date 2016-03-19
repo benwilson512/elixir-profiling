@@ -1,0 +1,12 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+ListsDifferenceBench	Lists -- 10000,  9000		1000000000	7574203
+ListsDifferenceBench	Lists -- 10000,  8000		1000000000	8094736
+ListsDifferenceBench	Lists -- 10000,  7000		1000000000	7833690
+ListsDifferenceBench	Lists -- 10000,  6000		1000000000	8071144
+ListsDifferenceBench	Lists -- 10000,  5000		1000000000	7790589
+ListsDifferenceBench	Lists -- 10000,  4000		1000000000	7599149
+ListsDifferenceBench	Lists -- 10000,  3000		1000000000	7574134
+ListsDifferenceBench	Lists -- 10000,  2000		1000000000	7621188
+ListsDifferenceBench	Lists -- 10000,  10000		1000000000	7656382
+ListsDifferenceBench	Lists -- 10000,  1000		1000000000	7525502

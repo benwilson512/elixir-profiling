@@ -1,0 +1,23 @@
+duration:1.0;mem stats:false;sys mem stats:false
+module;test;tags;iterations;elapsed
+MapSetDifferenceBench	MyMapSet.difference 10000, 9000		1000	2375975
+MapSetDifferenceBench	MyMapSet.difference 10000, 8000		1000	2214498
+MapSetDifferenceBench	MyMapSet.difference 10000, 7000		1000	1940377
+MapSetDifferenceBench	MyMapSet.difference 10000, 6000		1000	1734176
+MapSetDifferenceBench	MyMapSet.difference 10000, 5000		1000	1653377
+MapSetDifferenceBench	MyMapSet.difference 10000, 4000		1000	1417977
+MapSetDifferenceBench	MyMapSet.difference 10000, 3000		1000	1039541
+MapSetDifferenceBench	MyMapSet.difference 10000, 20000		500	2193339
+MapSetDifferenceBench	MyMapSet.difference 10000, 2000		5000	3759898
+MapSetDifferenceBench	MyMapSet.difference 10000, 19000		500	2063584
+MapSetDifferenceBench	MyMapSet.difference 10000, 18000		500	1934434
+MapSetDifferenceBench	MyMapSet.difference 10000, 17000		500	1845490
+MapSetDifferenceBench	MyMapSet.difference 10000, 16000		500	1867521
+MapSetDifferenceBench	MyMapSet.difference 10000, 15000		500	1718302
+MapSetDifferenceBench	MyMapSet.difference 10000, 14000		500	1605635
+MapSetDifferenceBench	MyMapSet.difference 10000, 13000		500	1490550
+MapSetDifferenceBench	MyMapSet.difference 10000, 12000		500	1453617
+MapSetDifferenceBench	MyMapSet.difference 10000, 11000		1000	2633288
+MapSetDifferenceBench	MyMapSet.difference 10000, 10000		100000000	3738839
+MapSetDifferenceBench	MyMapSet.difference 10000, 1000		5000	1977117
+MapSetDifferenceBench	MyMapSet.difference 10000, 1		10000000	7085582
